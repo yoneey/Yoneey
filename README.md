@@ -1,5 +1,12 @@
 ### Hi there 👋
-
+- 🔭 I'm currently not working
+- 🌱 I'm currently learning how to code
+- 👯 I'm looking to collaborate with people who could help me learn
+- 🤔 I'm looking for help with anything related to programming
+- 💬 Ask me about anything, I just wont promise knowing anything about it
+- 📫 Reach me through Github, since i still dont have a professional inbox
+- 😄 He/Him
+- ⚡ I dont like beans
 <!--
 **yoneey/Yoneey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
